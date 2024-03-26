@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 const Instructions: FC = () => {
   return (
     <Layout>
-      <div style={{ backgroundImage: `url('/BackgroundBridgeBlur.png')`}} className='flex items-center justify-center  bg-cover h-screen w-full bg-no-repeat bg-center'>
+      <div style={{ backgroundImage: `url('BackgroundBridgeBlurxxx.png')`}} className='flex items-center justify-center  bg-cover h-screen w-full bg-no-repeat bg-center'>
         <div className='text-center w-10/12'>
           <h1 className=" text-black font-bold mb-5">
             Respondiendo preguntas sobre la preservación del agua:
